@@ -1,0 +1,40 @@
+<LPCOpenCfg>
+	<symbol name="varExampleDestInc" value="example/inc" options="default"/>
+	<symbol name="varLocalIncEnable" value="${varExampleEnable}" options="default"/>
+	<symbol name="varDefaultLib"      value="NewlibNano"/> <!-- FIXME: Remove after fmodf is added to redlib -->
+	<module name="freertos"/>
+	<template tool="xpresso" section="filelist">
+		<import src="${varExampleIncDir}/config" dest="${varExampleDestInc}">
+			<include>*.h</include>
+		</import>
+		<import src="${prjDestToRoot}/software/bstlib" dest="bstlib">
+			<exclude>{BSX[0-9.]*}</exclude>
+			<exclude>{.*\.lib}</exclude>
+			<exclude>ak09912c.c</exclude>
+			<exclude>{.*amsc.*\.[ch]}</exclude>
+			<exclude>{icm2.*\.[ch]}</exclude>
+			<exclude>{roh.*\.[ch]}</exclude>
+			<exclude>bmg160.*</exclude>
+			<exclude>hsppad038a.c</exclude>
+		</import>
+	</template>
+	<template tool="xpresso" section="cfglist">
+		<setting id="compiler.inc">
+			<value>${workspace_loc:/${ProjName}/bstlib/sensors}</value>
+			<value>${workspace_loc:/${ProjName}/bstlib/bsxlite/inc}</value>
+		</setting>
+		<setting id="linker.paths">
+			<value>${workspace_loc:/${ProjName}/bstlib/bsxlite/lib/arm_gcc}</value>
+		</setting>
+		<setting  id="compiler.def">
+			<value>BSX_LITE</value>
+		</setting>
+		<setting  id="linker.xlinker">
+			<value>--no-wchar-size-warning</value>
+		</setting>
+		<setting id="linker.libs">
+			<value>algobsx</value>
+			<value>m</value> <!-- FIXME: Remove this after fmodf is added to redlib -->
+		</setting>
+	</template>
+</LPCOpenCfg>

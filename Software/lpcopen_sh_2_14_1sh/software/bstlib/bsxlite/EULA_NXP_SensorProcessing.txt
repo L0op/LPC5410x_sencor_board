@@ -1,0 +1,162 @@
+End User License agreement for NXP Sensor Processing/Motion Solution (BSXLite library)
+IMPORTANT: PLEASE READ THE FOLLOWING LICENSE AGREEMENT CAREFULLY.  BY CLICKING THE “I ACCEPT THE AGREEMENT” BOX, YOU (EITHER AN INDIVIDUAL OR LEGAL ENTITY) ARE AGREEING THAT YOU HAVE ACCEPTED ALL OF THE TERMS AND CONDITIONS CONTAINED IN THIS AGREEMENT, AND ARE LEGALLY BOUND THEREBY.
+This Software License Agreement (the “Agreement”) is a binding, legal agreement between NXP Semiconductors USA Inc. (hereinafter referred to as “NXP”) and you (either an individual or legal entity) (hereinafter referred to as “Licensee”).
+This Agreement applies to the Bosch Sensortec Library software that is downloadable from the NXP web site (the “Licensed Software”, as defined below). 
+By clicking the “I accept the Agreement” box, you accept and agree to all of the terms and conditions contained in this Agreement on behalf of yourself and your company.  This Agreement is the sole and exclusive terms and conditions for the Licensed Software, and nothing else gives you or any other person or entity any right to use, copy, modify or distribute the Licensed Software, in whole or in part.  NXP expressly rejects any terms and conditions of purchase (in purchase orders or otherwise) from you or your company in connection this software or any NXP microcontrollers.  Except for the license rights expressly granted under this Agreement, NXP reserves all other rights in and to the Licensed Software.  
+If you do not accept and agree to this Agreement, do not click the “I accept the Agreement” and do not download or use any of the Licensed Software.  Using, copying, modifying or distributing any Licensed Software is otherwise prohibited by law if you do not accept this Agreement.  By installing, using, copying, modifying or distributing any part of the Licensed Software, Licensee also indicates that it accepts this Agreement. 
+ 
+1.        Definitions  
+ 
+In addition to other terms defined elsewhere in this Agreement, the following terms, when the first letter is capitalized, have the meanings set forth in this Section 1.  All definitions below shall apply both to their singular or plural forms, as the context may require.
+ 
+“Executable Binary Code” means computer programs that have been fully assembled or compiled (into Object code) and linked into machine-readable and executable binary form, which can be executed by a computer, but is not generally readable by humans without reverse assembly, reverse compiling or reverse engineering.
+ 
+“Licensed Software” means the Bosch Sensortec BSX Lite Library software that is downloadable from the NXP web site for use with the specified NXP Microcontrollers, and any error corrections, fixes, modifications or improvements (if any) to the Licensed Software that NXP provides, in NXP’s sole discretion, to Licensee hereunder.
+ 
+“Licensee Product” means any product made by or for Licensee, which incorporates the specified NXP Microcontroller.
+ 
+“Object Code” means computer programs assembled, compiled or converted to magnetic, optical, or electronic binary form or software media, which are readable or usable by machines, but which are not generally readable by humans without decompiling or reverse engineering. 
+ 
+“NXP Microcontroller” means  NXPs M0, M3, M4, M4F, ARM7 and ARM9  microcontroller integrated circuit products only. 
+ 
+“Bosch Sensor” means any Bosch Sensortec product including one or more of the following sensor types: magnetometer, accelerometer, and gyroscope. 
+ 
+ “Source Code” means  (1) computer programs written in higher-level programming languages, (2) programming techniques and algorithms used therein, and (3) all accompanying documentation related to the Source Code. Source Code is intelligible to trained programmers and may be translated into Object Code for execution on computer equipment through the process of compiling, or may be executed by the process of interpretation at the time of execution.
+ 
+2.        Limited License 
+ 
+Subject to the terms and conditions of this Agreement, NXP hereby grants to Licensee, and Licensee hereby accepts, a non¬exclusive, worldwide, personal, non-transferable license under NXP’s relevant copyrights, without the right to sublicense to: 
+ 
+(a)        use and execute the Licensed Software for evaluation and demonstration purposes only with the specified NXP Microcontrollers. 
+ 
+(b)        use, execute, copy, modify and create derivative works of the Licensed Software Object Code that is provided by NXP hereunder to develop customized application programs to operate with the specified NXP Microcontrollers and distribute, directly and indirectly, such Licensed Software and derivative works thereof incorporated in such application programs, in Executable Binary Code form only, in Licensee Products incorporating the specified NXP Microcontrollers and one or more Bosch Sensors.
+ 
+3.        License Restrictions
+ 
+3.1                Licensee is expressly prohibited from marketing or distributing the Licensed Software on a stand-alone basis, or for any purpose other than to operate with the specified NXP Microcontrollers and Bosch Sensors.
+ 
+3.2                Licensee shall not, and shall not permit any third party to, copy any portion of the Licensed Software, except as permitted under Section 2. 
+ 
+3.3                Licensee shall not, and shall not permit any third party to, modify or alter any portion of the Licensed Software, except as permitted under Section 2.
+ 
+3.4                Licensee shall not, and shall not permit any third party to, reverse engineer, decompile or disassemble the Licensed  Software.  
+ 
+3.5                The Licensed Software is licensed and not sold, and any and all references to “sale” or “sold” of any Licensed Software shall be deemed to mean license, and no ownership or assignment of any intellectual property rights is intended nor shall be implied thereby.   
+ 
+3.6                Except for the limited copyright Licenses granted to Licensee under Section 2 herein, Licensee acknowledges and agrees that NXP does not confer any license or other right, by implication, estoppel or otherwise, under any other intellectual property rights of NXP or Bosch or their affiliates.  Notwithstanding anything to the contrary herein, no patent license, immunity or other patent right of any kind is granted under this Agreement by NXP or Bosch or their or any of its affiliates, either directly or by implication, estoppel, or otherwise.
+ 
+3.7                Licensee is solely responsible for acquiring, and hereby agrees to acquire, for itself all necessary rights and licenses from third parties claiming to hold patent rights, or any other intellectual property rights, that are necessary to the use, integration or implementation of any of the Licensed Software that are incorporated in the Licensee Products pursuant to this Agreement.
+ 
+3.8                Licensee shall not remove or alter any copyright notices, proprietary information notices or restricted rights notices of NXP or its suppliers in any Licensed Software as provided by NXP, and shall affix to any media containing a copy of any Licensed Software all such notices as were affixed to the original media of such Licensed Software.
+ 
+3.9                Notwithstanding anything to the contrary herein, this Agreement, including without limitation the Licenses granted in Section 2, shall not be construed as:
+ 
+(a)        Conferring any license or immunity, either directly or by implication, estoppel or otherwise to Licensee or any third party for the combination of any Licensed Software with one or more other items (including items acquired from Licensee) even if such items have no substantial use other than as part of such combination.
+ 
+(b)        Conferring any license or right with respect to any trademark, trade or brand name, a corporate name of NXP or its affiliate(s) or suppliers, or any other name or mark, or contraction abbreviation or simulation thereof.
+ 
+(c)        Imposing on NXP and/or its affiliate(s) or suppliers any obligation to furnish any manufacturing or technical information.
+ 
+(d)        Conferring any license or immunity, either directly or by implication, estoppel or otherwise to Licensee or any third party under any intellectual property rights of NXP and/or its affiliates or suppliers covering a standard set by a standard setting body and/or agreed to between at least two companies.
+ 
+4.        Open Source Software Restrictions
+ 
+4.1                Licensee’s license rights under this Agreement are conditioned upon Licensee not performing, and Licensee shall not perform (directly or indirectly), any of the following actions in a manner that would require the Licensed Software or derivative works thereof to be licensed under Open Source License Terms:
+ 
+(a)        combining the Licensed Software or a derivative work thereof with Open Source Software, by means of incorporation or linking or otherwise;
+ 
+(b)        distributing the Licensed Software or a derivative work thereof with Open Source Software; or
+ 
+(c)        using Open Source Software to create a derivative work of the Licensed Software.
+ 
+4.2                For the purpose of Section 4: 
+ 
+(a)        the term “Open Source Software” means any software that is licensed under Open Source License Terms; and
+ 
+(b)        the term “Open Source License Terms” means terms in any license for software which require, as a condition of use, modification and/or distribution of such software or other software incorporated into, derived from or distributed with such software (a “work”), any of the following: 
+(i)        the making available of source code regarding the work; 
+(ii)        the granting of permission for creating derivative works regarding the work; or 
+(iii) the granting of a royalty-free license to any party under intellectual property rights regarding the work.  
+ 
+(c)        Open Source License Terms includes, by means of example and without limitation, the following licenses or distribution models:  
+(i) the GNU General Public License (GPL) or Lesser/Library GPL (LGPL), 
+(ii) the Artistic License (e.g., PERL), 
+(iii) the Mozilla Public License, (iv) the Common Public License,
+(vi) the Sun Community Source License (SCSL), and 
+(v) the Sun Industry Source License (SISL).  
+ 
+4.3                Under no circumstances is the Licensed Software provided to Licensee hereunder to be combined with any Open Source Software in any way or licensed under Open Source License Terms without the express written permission of NXP Semiconductors.
+ 
+5.        Ownership Rights
+ 
+5.1                The Licensed Software is the property of NXP and/or its licensors. NXP and/or its licensors retain all right, title and interest in and to the Licensed Software, including all of its intellectual property rights related thereto and to each whole or partial copy thereof.  The Licensee acquires no title, right or interest in the Licensed Software other than the License expressly granted under Section 2 herein.
+ 
+6.        Confidentiality
+ 
+6.1        All  Licensed Software Object  Code, and any documentation that is provided by NXP which is marked as confidential, contains valuable, proprietary trade secrets and confidential information of NXP and its licensors (hereinafter referred to as “Confidential Information”).  Licensee agrees to maintain the Licensed Software Object Code and any other Confidential Information in strict confidence and not to disclose it to any third person or to its employees except to those of Licensee’s employees who have a legitimate need to know and who agree to keep it confidential, and Licensee agrees to use the Licensed Software Object Code and other Confidential Information solely for the purposes of this Agreement.  
+ 
+6.2        Licensee agrees and shall ensure that each of its employees who will have access to the Confidential Information shall be bound by a written, signed agreement legally sufficient to enable Licensee and each such employee to comply with all the provisions of this Section 6. 
+ 
+6.3        Except as expressly permitted in Section 2, Licensee shall not, and shall not permit any one else to, reproduce, duplicate, or otherwise disclose, distribute or disseminate Confidential Information.  Licensee agrees to take all reasonable steps to prevent disclosure and unauthorized use of Confidential Information and to use no less than same degree of care that it uses with respect to its own confidential information of similar kind or nature.  Licensee shall promptly notify NXP of any unauthorized use or disclosure of any Confidential Information.  
+ 
+6.4        Licensee’s obligations of confidentiality under this Agreement shall not apply to information that Licensee can establish by dated documentation: (i) is or becomes publicly known to the general public through no wrongful act or omission of Licensee; (ii) is known by Licensee prior to disclosure by NXP to Licensee; (iii) is rightfully furnished to Licensee by a third party without restriction as to use or disclosure, and without breach of this Agreement by Licensee; (iv) is independently developed by Licensee without the use of any Confidential Information. 
+ 
+6.5        The obligations of confidentiality and restrictions on use of Confidential Information under this Agreement shall apply during the term of this Agreement and shall survive and continue to apply for a period of five (5) years from the termination of this Agreement, except with respect to Object Code of the Licensed Software, in which case the obligations of confidentiality and restrictions for Object Code of Licensed Software shall survive and continue to apply for a period of ten (10) years from the termination of this Agreement. 
+ 
+6.6        Licensee agrees to indemnify NXP for any and all damages NXP may suffer as a result of the failure of Licensee to abide by the terms of this Section 6.
+ 
+7.        Warranty
+ 
+7.1                The Licensed Software is provided to Licensee “AS IS” without any warranties of any kind, including without limitation, NXP and its Licensors do not warrant to Licensee that the licensed software will operate error free or uninterrupted, nor that it will meet your requirements. NXP AND ITS LICENSORS shall not have any duty or obligation to defend or indemnify Licensee or to hold it harmless for any reason related to the Licensed Software, or otherwise be liable to Licensee or any third party with respect to the subject matter of this Agreement.  Licensee acknowledges and agrees that the Licensed Software is provided AS-IS and accepts all risks of utilizing the Licensed Software under the conditions set forth in this Agreement. 
+ 
+7.2                NXP EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS.  NXP SHALL HAVE NO LIABILITY TO LICENSEE, OR ITS SUBSIDIARIES, AFFILIATES, OR ANY OTHER THIRD PARTY FOR ANY DAMAGES, INCLUDING WITHOUT LIMITATION, DAMAGES RESULTING OR ALLEGED TO HAVE RESULTED FROM ANY DEFECT, ERROR OR OMISSION IN THE LICENSED SOFTWARE, OR AS A RESULT OF ANY INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHT OF ANY THIRD PARTY.  IN NO EVENT SHALL NXP OR ITS LICENSORS BE LIABLE FOR ANY INCIDENTAL, INDIRECT, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING LOST PROFITS) SUFFERED BY LICENSEE OR ITS SUBSIDIARIES, AFFILIATES, OR ANY THIRD PARTY ARISING OUT OF OR RELATED TO THIS AGREEMENT, INCLUDING WITHOUT LIMITATION THE USE OR NON-USE OF THE LICENSED SOFTWARE, EVEN IF NXP HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL NXP’S OR ITS LICENSOR’S TOTAL AGGREGATE LIABILITY FOR DAMAGES ARISING OUT OF THIS AGREEMENT EXCEED THE AMOUNT OF FIVE THOUSAND DOLLARS (US$5,000). 
+ 
+8.        Indemnification
+ 
+8.1                Licensee shall indemnify and defend NXP against and shall hold NXP harmless from any damages or costs arising from or connected with (i) any claims of infringement resulting from any modifications to Licensed Software made by Licensee, or (ii) Licensee’s breach of any provisions of Section 4.1 herein, and shall reimburse NXP and its Affiliates for all costs incurred by them in defending any claim, demand, suit or proceeding regarding such alleged infringement, use or breach, provided NXP gives Licensee notice in writing of any such claim, suit or proceeding for infringement.  Each Party agrees to provide reasonable cooperation to the other Party in the defense of any such infringement claims, upon the reasonable request of the other Party. 
+ 
+9.        Terms and Termination 
+ 
+9.1        This Agreement shall be effective until terminated. 
+ 
+9.2        Licensee may terminate this Agreement at anytime by written notice to NXP.    
+ 
+9.3        NXP may terminate this Agreement at anytime if Licensee breaches or violates any terms or conditions of this Agreement, including, without limitation, immediately if Licensee breaches or violates any of the provisions in Section 4 (Open Source Software Restrictions) or Section 6 (Confidentiality), or if Licensee shall cease conducting business in the normal course, becomes insolvent, files for or is placed in bankruptcy, or makes a general assignment for the benefit of creditors.
+ 
+9.4        All Licenses granted to Licensee under this Agreement shall immediately end upon the termination of this Agreement.    
+ 
+9.5        Upon termination of this Agreement, Licensee shall immediately return to NXP or destroy all Licensed Software and Confidential Information in its possession or control, provided however, Licensee may keep for archival and support purposes only, one copy of the Licensed Software that Licensee has incorporated in its Licensee Products pursuant to Section 2 herein. 
+ 
+10.        General
+ 
+10.1        The provisions of Sections 1, 3, 4, 5, 6, 7, 8, 9 and 10 shall survive the expiration or termination of this Agreement. 
+ 
+10.2        Licensee may not assign its rights or obligations under this Agreement without the prior written consent of NXP, and any purported assignment without such consent shall have no force or effect.  In the event that Licensee desires to assign this Agreement to a successor in interest by merger or acquisition of its entire business, Licensee shall obtain NXP’s prior written approval, which approval shall not be unreasonably withheld.  NXP has the right to assign this Agreement to any affiliate of NXP or to any third party in connection with any merger, acquisition, or sale of all or part of its assets, or any other business transfer.  Subject to the foregoing, this Agreement shall bind and inure to the benefit of the respective parties hereto and their successors and assigns.  In the event of an assignment or attempted assignment by Licensee without NXP’s prior written approval, this Agreement shall immediately terminate. 
+ 
+10.3        All intellectual property rights pertaining to the Licensed Software and related documentation, and all ownership rights in and to such intellectual property rights, Licensed Software and related documentation, shall remain solely and exclusively with NXP or its third party suppliers, whether or not they were developed specifically for the Licensee. 
+ 
+10.4        No rights or licenses are granted, or implied by estoppel or otherwise, under any intellectual property rights of NXP and/or its Affiliates or suppliers or any intellectual property residing in the Licensed Software and related documentation, except for the limited Licenses under Section 2 herein. 
+ 
+10.5        Neither Party is authorized to act for or on the behalf of the other Party under this Agreement. Each Party is an independent contractor, and no principal/agent or partnership relationship is created between them by this Agreement.
+ 
+10.6        All Licensed Software and related documentation are subject to United States export control laws and may be subject to foreign export and import control laws and regulations.  Licensee agrees to strictly comply with all applicable export laws and regulations, and, in particular, Licensee will not export or re-export the Licensed Software without all required United States and foreign government licenses, approvals, or waivers.
+ 
+10.7        The Licensed Software is provided with restrictive rights. The Licensed Software is proprietary, commercial software developed at private expense.  The Licensed Software is a commercial item consisting of “commercial computer software” and “commercial computer software documentation” as defined in 40 C.F.R. 2.101 of the United States Code of Federal Regulations (“C.F.R.”).  If the Licensed Software is acquired for use by the U.S. Government, then pursuant to 48 C.F.R. 12.212 and 48 C.F.R. 227.7202 as applicable, the U.S. Government end users acquire only the sublicensed rights set forth in Section 2 herein and their use, duplication and disclosure of the Licensed Software is subject to the restrictions of this Agreement.  The Licensed Software is also a “commercial item” as that term is defined in 48 C.F.R. 52.244. 
+ 
+10.8        Licensee acknowledges that a breach of this Agreement may cause irreparable damage for which recovery of money damages would be inadequate, and that, in addition to any and all remedies available at law and equity, NXP shall be entitled to seek injunctive relief to protect its rights under this Agreement. 
+ 
+10.9        In the event any proceeding or lawsuit is brought by either Party in connection with this Agreement, the prevailing Party in such proceeding or lawsuit shall be entitled to receive its costs for such action, including its reasonable attorneys’ fees, expert witness fees.  
+ 
+10.10        Each Party acknowledges and agrees that this Agreement does not confer any rights to use any of the other Party’s names, trademarks, or logos for any reason, including but not limited to, in connection with it advertising, publicity or other marketing activities. 
+ 
+10.11        No failure or delay by either Party to enforce or take advantage of any provision or right under this Agreement shall constitute a subsequent waiver of that provision or right, nor shall it be deemed to be a waiver of any of the other terms and conditions of this Agreement.
+ 
+10.12        This Agreement shall be governed by and interpreted in accordance with the laws of the State of California, United States of America, without regard to provisions concerning conflicts of law.  The United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.   
+ 
+10.13        Each Party agrees to comply with all applicable United States and foreign laws in performing under this Agreement.
+ 
+10.14        Should any dispute arise out of or relate to this Agreement, the prevailing party in any resulting litigation shall be reimbursed by the other party for any and all reasonable attorneys’ fees and expenses incurred.
+ 
+10.15        In the event that any provision of this Agreement is prohibited by any mandatory law governing its construction, performance or enforcement, such provision shall be ineffective to the extent of such prohibition without invalidating thereby any of the remaining provisions of the Agreement.
+ 
+10.16        This Agreement, including its Appendices, sets forth the entire agreement between the NXP and Licensee relating to the subject matter herein.  The terms and conditions of this Agreement may not be modified or amended except in writing signed by an authorized representative of NXP.

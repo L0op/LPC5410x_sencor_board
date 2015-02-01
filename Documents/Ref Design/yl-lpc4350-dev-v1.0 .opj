@@ -1,0 +1,27 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\yl-lpc4350-dev-v1.0 .dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\yl-lpc4350-dev-v1.0 .dsn")
+      (Path "Design Resources" ".\yl-lpc4350-dev-v1.0 .dsn" "底板原理图")
+      (Select "Design Resources" ".\yl-lpc4350-dev-v1.0 .dsn" "底板原理图"
+         "08) Reset & JTAG & Boot Config"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 800 680 -8 -30 0 200 0 459"))
+      (Tab 0)))
+  (MPSSessionName "l0op"))
